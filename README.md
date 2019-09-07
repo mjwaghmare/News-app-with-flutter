@@ -1,6 +1,7 @@
-# demo
+# News app with flutter
 
-A new Flutter project.
+screen shots.
+![](one.png) ![](two.png)
 
 ## Getting Started
 
